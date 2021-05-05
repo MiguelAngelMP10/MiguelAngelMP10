@@ -11,6 +11,10 @@
 </div>
 <h1>Repos</h1>
 
+
+<a href="https://github.com/MiguelAngelMP10/CfdiToJson">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelAngelMP10&repo=CfdiToJson&theme=material-palenight" />
+</a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelAngelMP10&repo=api-laravel-8&theme=jolly" />
 </a>
