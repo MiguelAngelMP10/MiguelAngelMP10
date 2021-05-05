@@ -1,10 +1,10 @@
 ### Hi there 👋
 <div style="text-align: justify;">
-<a href="https://github.com/anuraghazra/github-readme-stats" >
+<a href="#" >
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiguelAngelMP10&show_icons=true&theme=midnight-purple&card_width=200"/>
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAngelMP10&show_icons=true&theme=midnight-purple" />
 </a>
 
