@@ -24,8 +24,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelAngelMP10&repo=api-laravel-8&theme=jolly" />
 </a>
 
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelAngelMP10&repo=ejercicio-reactjs-materialize&theme=react" />
+<a href="https://github.com/MiguelAngelMP10/laravel-tdd">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelAngelMP10&repo=laravel-tdd&theme=chartreuse-dark" />
 </a>
 
 **MiguelAngelMP10/MiguelAngelMP10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
