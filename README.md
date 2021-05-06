@@ -3,6 +3,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/MiguelAngelMP10?label=MiguelAngelMP10&logo=github&style=flat-square)](https://github.com/MiguelAngelMP10?tab=followers)
 [![Twitter @MiguelAngelMP10](https://img.shields.io/twitter/follow/MiguelAngelMP10?label=%40MiguelAngelMP10&logo=twitter&style=flat-square)](https://twitter.com/MiguelAngelMP10)
 [![Email](https://img.shields.io/badge/mmunozpozos%40gmail.com-mail-blueviolet?style=flat-square)](mailto://mmunozpozos@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/MiguelAngelMP10)
 
 
 <div style="text-align: justify;">
