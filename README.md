@@ -38,6 +38,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelAngelMP10&repo=laravel-tdd&theme=chartreuse-dark" />
 </a>
 
+<a href="https://github.com/MiguelAngelMP10/random-messages-miguel-angel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelAngelMP10&repo=random-messages-miguel-angel&theme=algolia" />
+</a>
+
+
+
+
 **MiguelAngelMP10/MiguelAngelMP10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
