@@ -26,6 +26,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelAngelMP10&repo=ejercicio-reactjs-materialize&theme=react" />
 </a>
 
+<a href="https://github.com/MiguelAngelMP10/testing-laravel-8">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelAngelMP10&repo=testing-laravel-8&theme=solarized-dark" />
+</a>
+
 <a href="https://github.com/MiguelAngelMP10/repo=laravel-tdd">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelAngelMP10&repo=api-laravel-8&theme=jolly" />
 </a>
