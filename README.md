@@ -17,12 +17,10 @@
 </a>
 
 <a href="#">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=MiguelAngelMP10&theme=yeblu" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=MiguelAngelMP10&theme=buefy-dark" />
 </a>
 
 </div>
-
-
 
 
 
