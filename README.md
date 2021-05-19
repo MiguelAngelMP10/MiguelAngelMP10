@@ -48,7 +48,11 @@
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 	
 
-<!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
+<!-- 
+Mas ejemplos
+https://dev.to/envoy_/150-badges-for-github-pnk 
+https://github.com/alexandresanlim/Badges4-README.md-Profile
+-->
 
 
 
