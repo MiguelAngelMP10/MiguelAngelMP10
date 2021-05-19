@@ -13,7 +13,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiguelAngelMP10&show_icons=true&theme=midnight-purple&card_width=200"/>
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAngelMP10&show_icons=true&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAngelMP10&show_icons=true&theme=midnight-purple&layout=compact" />
 </a>
 
 <a href="#">
