@@ -10,14 +10,14 @@
 
 <div style="text-align: justify;">
 <a href="#" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiguelAngelMP10&show_icons=true&theme=midnight-purple&card_width=200"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiguelAngelMP10&show_icons=true&theme=midnight-purple&card_width=200&?count_private=true"/>
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAngelMP10&show_icons=true&theme=midnight-purple&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAngelMP10&show_icons=true&theme=midnight-purple&layout=compact&?count_private=true" />
 </a>
 
 <a href="#">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=MiguelAngelMP10&theme=buefy-dark" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=MiguelAngelMP10&theme=buefy-dark&count_private=true" />
 </a>
 
 </div>
