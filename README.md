@@ -57,6 +57,7 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-777BB4?style=for-the-badge&logo=phpMyAdmin&logoColor=white)
 
 
 
