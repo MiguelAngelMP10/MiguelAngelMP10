@@ -131,6 +131,7 @@
 Mas ejemplos
 https://dev.to/envoy_/150-badges-for-github-pnk 
 https://github.com/alexandresanlim/Badges4-README.md-Profile
+https://simpleicons.org/
 -->
 
 
