@@ -60,6 +60,8 @@
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-777BB4?style=for-the-badge&logo=phpMyAdmin&logoColor=white)
 ![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=Bitbucket&logoColor=white)
+![LastPass](https://img.shields.io/badge/LastPass-D32D27?style=for-the-badge&logo=LastPass&logoColor=white)
 
 
 
@@ -136,16 +138,12 @@ https://simpleicons.org/
 
 
 
-<h1>Repos</h1>
+# Repos
+
+[![api-descargar-cfdi](https://github-readme-stats.vercel.app/api/pin/?username=MiguelAngelMP10&repo=api-descargar-cfdi&theme=monokai)](https://github.com/MiguelAngelMP10/api-descargar-cfdi)
+[![api-rest-nodejs](https://github-readme-stats.vercel.app/api/pin/?username=MiguelAngelMP10&repo=api-rest-nodejs&theme=blueberry)](https://github.com/MiguelAngelMP10/api-rest-nodejs)
 
 
-<a href="https://github.com/MiguelAngelMP10/api-descargar-cfdi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelAngelMP10&repo=api-descargar-cfdi&theme=monokai" />
-</a>
-
-<a href="https://github.com/MiguelAngelMP10/api-rest-nodejs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelAngelMP10&repo=api-rest-nodejs&theme=blueberry" />
-</a>
 
 
 <a href="https://github.com/MiguelAngelMP10/CfdiToJson">
