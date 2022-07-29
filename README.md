@@ -72,6 +72,7 @@
 ![Vtex](https://img.shields.io/badge/Vetex-ED125F?style=for-the-badge&logo=Vtex&logoColor=white)
 ![BigCommerce](https://img.shields.io/badge/BigCommerce-121118?style=for-the-badge&logo=BigCommerce&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=Shopify&logoColor=white)
+![Shopware](https://img.shields.io/badge/Shopware-189EFF?style=for-the-badge&logo=Shopware&logoColor=white)
 
 # 💻 OS
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white)
