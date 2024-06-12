@@ -15,6 +15,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com?user=MiguelAngelMP10&theme=buefy-dark&count_private=true&locale=es)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MiguelAngelMP10&theme=github_dark)
 
+![](https://github-readme-activity-graph.vercel.app/graph?username=MiguelAngelMP10&theme=react-dark&day=90)
+
 
 
 
