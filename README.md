@@ -17,6 +17,11 @@
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=MiguelAngelMP10&theme=react-dark&day=90)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MiguelAngelMP10/MiguelAngelMP10/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MiguelAngelMP10/MiguelAngelMP10/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MiguelAngelMP10/MiguelAngelMP10/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 
