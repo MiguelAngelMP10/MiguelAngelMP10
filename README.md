@@ -15,7 +15,6 @@ Desarrollador Full Stack apasionado por crear soluciones eficientes con Laravel,
 - 💬 Me gusta compartir conocimientos y contribuir a la comunidad open source.
 - 📫 Siempre abierto a colaboraciones y nuevos retos.
 
-![built](https://forthebadge.com/images/badges/built-with-love.svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/MiguelAngelMP10?label=MiguelAngelMP10&logo=github&style=for-the-badge)](https://github.com/MiguelAngelMP10?tab=followers)
 [![Twitter @MiguelAngelMP10](https://img.shields.io/twitter/follow/MiguelAngelMP10?label=%40MiguelAngelMP10&logo=twitter&style=for-the-badge)](https://twitter.com/MiguelAngelMP10)
