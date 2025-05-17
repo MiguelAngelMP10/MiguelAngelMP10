@@ -1,4 +1,19 @@
-### Hi there 👋
+# 👋 ¡Hola! Soy Miguel Ángel Muñoz Pozos
+
+Desarrollador Full Stack apasionado por crear soluciones eficientes con Laravel, FilamentPHP y automatización mediante scraping con Symfony Panther. Me especializo en el desarrollo de sistemas escalables, APIs robustas y herramientas de automatización que impulsan negocios digitales.
+
+## 🚀 Tecnologías principales
+- PHP, Laravel, FilamentPHP
+- JavaScript, Vue.js
+- Scraping con Panther (Symfony)
+- Base de datos: MySQL, PostgreSQL
+- DevOps: Docker, GitHub Actions
+  
+## 👨‍💻 Sobre mí
+
+- 🎯 Apasionado por la automatización de procesos con scraping.
+- 💬 Me gusta compartir conocimientos y contribuir a la comunidad open source.
+- 📫 Siempre abierto a colaboraciones y nuevos retos.
 
 ![built](https://forthebadge.com/images/badges/built-with-love.svg)
 
