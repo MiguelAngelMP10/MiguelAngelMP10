@@ -23,11 +23,13 @@ Desarrollador Full Stack apasionado por crear soluciones eficientes con Laravel,
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/MiguelAngelMP10)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/MiguelAngelMP10)
 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiguelAngelMP10&theme=tokyonight) 
+
 
 ![](https://github-readme-stats.vercel.app/api?username=MiguelAngelMP10&show_icons=true&theme=midnight-purple&card_width=200&?count_private=true&locale=es)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAngelMP10&show_icons=true&theme=midnight-purple&layout=compact&?count_private=true&locale=es)
 ![](https://github-readme-streak-stats.herokuapp.com?user=MiguelAngelMP10&theme=buefy-dark&count_private=true&locale=es)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MiguelAngelMP10&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MiguelAngelMP10&theme=tokyonight) 
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=MiguelAngelMP10&theme=react-dark&day=90)
 
